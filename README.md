@@ -1,6 +1,6 @@
 # Olá 👋
 
-## Aluno do curso tecnico em Informática e Desenvolvimento WEB na <b>[FIEMG - Federação das Indústrias do Estado de Minas Gerais](https://www.fiemg.com.br/)</b>.
+## Aluno do curso **Técnico em Informática e Desenvolvimento WEB** na <b>[FIEMG - Federação das Indústrias do Estado de Minas Gerais](https://www.fiemg.com.br/) Ipatinga/MG</b>.
 
 <hr>
 
