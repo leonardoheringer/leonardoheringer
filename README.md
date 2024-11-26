@@ -1,8 +1,7 @@
 # Olá 👋
+<h2 align="left">👩‍💻  Sobre mim </h2>
 
-## Aluno do curso **Técnico em Informática e Desenvolvimento WEB** na <b>[FIEMG - Federação das Indústrias do Estado de Minas Gerais](https://www.fiemg.com.br/) Ipatinga/MG</b>.
-
-<hr>
+### Aluno do curso **Técnico em Informática e Desenvolvimento WEB** na <b>[FIEMG - Federação das Indústrias do Estado de Minas Gerais](https://www.fiemg.com.br/) Ipatinga/MG</b>.
 
 ## Unidades Curriculares
 <b> Concluidas <b>
@@ -22,66 +21,59 @@
 - [ ]  IMPLANTAÇÃO DE SISTEMA WEB
 - [ ]  PROJETO DE INOVAÇÃO: MINDSET EMPREENDEDOR E PROTOTIPAÇÃO
 - [ ]  PROJETO DE INOVAÇÃO: TRABALHO DE CONCLUSÃO DO CURSO
-<!--
 
-Atualmente adquirindo novas skills com foco em desenvolvimento de sistemas em C# e .NET
+###
 
-- [x] C#
-- [x] ASP.NET
-- [x] Introdução ao DevOps
-- [x] Desenvolvimento SPA com Angular
-- [x] Docker do Zero ao Avançado 
-- [ ] Kubernetes `(90% Completo)`
-- [ ] Dominando o ASP.NET MVC Core
-- [ ] REST com ASP.NET Core WebAPI
-
-- [x] ~Fundamentos do C#~ `(100% Completo)`
-- [x] ~ASP.NET~ `(100% Completo)`
-- [x] ~Introdução ao DevOps~ `(100% Completo)`
-- [x] ~Desenvolvimento SPA com Angular~ `(100% Completo)`
-- [x] ~Docker do Zero ao Avançado~ `(100% Completo)`
-- [ ] Kubernetes `(90% Completo)`
-- [ ] Dominando o ASP.NET MVC Core `(73% Completo)`
-- [ ] REST com ASP.NET Core WebAPI `(38% Completo)`
-
--->
-
-
-
-
-
-
-
-
-
-
-
-<!-- Para quem quiser, são esses os sites https://desenvolvedor.io/ e https://balta.io/ -->
-
-
-<div> <a href="https://instagram.com/leo_heringer10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/leonardo-heringer-237158219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
-</br>
-
-
-<!--
-<div align="left">
-  <a href="https://github.com/marquescharlon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marquescharlon&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquescharlon&layout=compact&langs_count=7&theme=graywhite"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardoheringer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardoheringer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
--->
 
-<!--
-**marquescharlon/marquescharlon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">🛠 Linguagens e Ferramentas</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
+</div>
+
+###
+###
+
+<h2 align="left">📱 Midias Sociais</h2>
+
+###
+
+<div align="left">
+   <a href="https://www.instagram.com/leo_heringer10">
+             <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="50" alt="instagram logo"  />
+  </a>
+  <a href="https://twitter.com/cunha_heringer">
+         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="62" height="50" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/leonardo-heringer-237158219/">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
+  </a>
+ 
+  
+ 
+  
+ 
+</div>
