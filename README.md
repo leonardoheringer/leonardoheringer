@@ -1,62 +1,37 @@
-# Olá! Eu sou Leonardo👋
-<h2 align="left">👩‍💻  Sobre mim </h2>
-<p align="left"><br>💻 Atualmente estudando C#, ASP.NET e desenvolvimento web<br>🎯 Objetivo: evoluir como desenvolvedor full stack e atuar em projetos profissionais
-<br>🎓 Técnico em Informática para Internet – SENAI Rinaldo Campos Soares (2024–2025) </p>
+# Olá! Eu sou o Leonardo Heringer 👋
 
+**Estudante de Engenharia de Software | Técnico de Informática | Foco em desenvolvimento .NET**
 
+Atuo com suporte técnico em uma concessionária Volkswagen e estou construindo minha trajetória para trabalhar com desenvolvimento de software.
 
+Minha experiência em suporte me aproxima dos problemas de quem utiliza os sistemas no dia a dia. Quero transformar esse conhecimento em aplicações que facilitem processos, reduzam tarefas repetitivas e ajudem pessoas a trabalhar melhor.
 
+## 🎓 Sobre mim
 
+- 🎓 Estudante de **Engenharia de Software** na UNILESTE.
+- 🔧 Atuação profissional com **suporte técnico e informática**.
+- 💻 Estudos em **C#, ASP.NET e desenvolvimento web**.
+- 📊 Interesse em **análise de dados e indicadores de negócio**.
+- 🎯 Busco uma oportunidade em desenvolvimento para contribuir com uma equipe e evoluir profissionalmente.
 
-###
+## 💻 Foco dos meus estudos
 
-<h2 align="left">💻 Tecnologias e Ferramentas</h2>
+- Desenvolvimento de aplicações com **C# e .NET**.
+- Criação de APIs com **ASP.NET Core**.
+- Bancos de dados relacionais e **SQL**.
+- Organização de código, **Git** e boas práticas de desenvolvimento.
+- Uso de dados para compreender problemas e apoiar decisões.
 
-###
+## 🛠️ Projetos e aprendizado
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="dotnetcore logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
-</div>
+Meus repositórios registram minha evolução por meio de exercícios, projetos acadêmicos e aplicações práticas.
 
+Estou direcionando meus estudos para soluções relacionadas a problemas que conheço no suporte técnico, como organização de chamados, acompanhamento de prazos e identificação de falhas recorrentes.
 
-###
-###
+➡️ [Explore meus repositórios](https://github.com/leonardoheringer?tab=repositories)
 
-<h2 align="left">📱 Midias Sociais</h2>
+## 🤝 Vamos conversar?
 
-###
+Busco oportunidades para aprender com uma equipe, contribuir com projetos e evoluir profissionalmente.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/leonardo-heringer-237158219/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="45" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/leo_heringer10" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="45" alt="instagram logo" />
-  </a>
-<a href="https://mail.google.com/mail/?view=cm&to=leonardoheringer.dev@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="45" alt="gmail logo" />
-</a>
-
-</div>
-
- 
-  
- <br> </br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardoheringer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardoheringer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-  
- 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-heringer-237158219/)
